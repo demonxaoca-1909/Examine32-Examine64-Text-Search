@@ -197,4 +197,4 @@ This repository serves as the official landing page for Examine32/Examine64 Text
 **Get the most recent version of Examine32/Examine64 today!**
 
 ---
-**Last updated:** 2026-11-12 03:35:56 UTC
+**Last updated:** 2026-11-12 12:10:30 UTC
